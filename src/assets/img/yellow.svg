@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>黄</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-41.7%" y="-41.7%" width="183.3%" height="183.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.250169837">
+        <g id="任务管理" transform="translate(-441.000000, -556.000000)" fill="#FD8C01" stroke="#FD8C01" stroke-width="5">
+            <g id="Group-31" transform="translate(246.000000, 265.000000)">
+                <g id="分组-2" transform="translate(198.000000, 16.000000)">
+                    <circle id="黄" filter="url(#filter-1)" cx="3" cy="281" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

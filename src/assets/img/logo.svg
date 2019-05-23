@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="218px" height="32px" viewBox="0 0 218 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="任务管理" transform="translate(-40.000000, -19.000000)" fill="#FFFFFF">
+            <g id="Group-38" transform="translate(40.000000, 15.000000)">
+                <g id="logo">
+                    <text id="企业综合评价服务平台" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" letter-spacing="4.19999981">
+                        <tspan x="0" y="19">企业综合评价服务平台</tspan>
+                    </text>
+                    <text id="Comprehensive-Evalua" font-family="PingFangSC-Regular, PingFang SC" font-size="8" font-weight="normal" letter-spacing="-0.04571429">
+                        <tspan x="0" y="34">Comprehensive Evaluation Service Platform for Enterprise</tspan>
+                        <tspan x="213.6" y="34" letter-spacing="-0.0522449">s</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

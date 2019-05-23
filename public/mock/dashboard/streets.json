@@ -1,0 +1,80 @@
+[
+  {
+    "title": "中国航信高科技产业园区",
+    "latitude": 40.081916,
+    "longitude": 116.748537,
+    "imageURL": "/assets/img/pyramid.svg",
+    "enterpriseCount": 123,
+    "area": 0.33,
+    "industryTotal": 156,
+    "acreTax": 99,
+    "capitaOutput": 107,
+    "unitEnergy": 0.11,
+    "rdFunds": 3.1
+  },
+  {
+    "title": "空港工业开发区",
+    "latitude": 40.108604,
+    "longitude": 116.543161,
+    "imageURL": "/assets/img/pyramid.svg",
+    "enterpriseCount": 2600,
+    "area": 115,
+    "industryTotal": 693,
+    "acreTax": 100,
+    "capitaOutput": 122,
+    "unitEnergy": 0.13,
+    "rdFunds": 2.9
+  },
+  {
+    "title": "国门商务区",
+    "latitude": 40.224599,
+    "longitude": 116.816246,
+    "imageURL": "/assets/img/pyramid.svg",
+    "enterpriseCount": 2600,
+    "area": 115,
+    "industryTotal": 693,
+    "acreTax": 100,
+    "capitaOutput": 122,
+    "unitEnergy": 0.13,
+    "rdFunds": 2.9
+  },
+  {
+    "title": "北京天竺空港经济开发区",
+    "latitude": 40.209864,
+    "longitude": 116.549744,
+    "imageURL": "/assets/img/pyramid.svg",
+    "enterpriseCount": 56,
+    "area": 5.944,
+    "industryTotal": 207,
+    "acreTax": 97,
+    "capitaOutput": 135,
+    "unitEnergy": 0.09,
+    "rdFunds": 3.2
+  },
+  {
+    "title": "中关村示范区顺义园",
+    "latitude": 40.148864,
+    "longitude": 116.694544,
+    "imageURL": "/assets/img/pyramid.svg",
+    "enterpriseCount": 333,
+    "area": 12.08,
+    "industryTotal": 1175,
+    "acreTax": 115,
+    "capitaOutput": 202,
+    "unitEnergy": 0.1,
+    "rdFunds": 3.5
+  },
+  {
+    "title": "临河开发区",
+    "latitude": 40.105599,
+    "longitude": 116.890246,
+    "imageURL": "/assets/img/pyramid.svg",
+    "enterpriseCount": 2600,
+    "area": 115,
+    "industryTotal": 693,
+    "acreTax": 100,
+    "capitaOutput": 122,
+    "unitEnergy": 0.13,
+    "rdFunds": 2.9
+  }
+]

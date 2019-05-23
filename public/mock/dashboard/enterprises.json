@@ -1,0 +1,52 @@
+[
+  {
+    "title": "北京长城华冠汽车科技股份有限公司",
+    "latitude": 40.222567,
+    "longitude": 116.551043,
+    "acreTax": 99,
+    "unitOutput": 160,
+    "unitEnergy": 0.1,
+    "rdFunds": 3.5,
+    "grade": "A级"
+  },
+  {
+    "title": "北京现代汽车有限公司",
+    "latitude": 40.160398,
+    "longitude": 116.517698,
+    "acreTax": 113,
+    "unitOutput": 130,
+    "unitEnergy": 0.12,
+    "rdFunds": 5,
+    "grade": "A级"
+  },
+  {
+    "title": "北京汽车集团有限公司",
+    "latitude": 40.160618,
+    "longitude": 116.666601,
+    "acreTax": 107,
+    "unitOutput": 120,
+    "unitEnergy": 0.14,
+    "rdFunds": 5.5,
+    "grade": "A级"
+  },
+  {
+    "title": "中航复合材料有限责任公司",
+    "latitude": 40.093976,
+    "longitude": 116.70857,
+    "acreTax": 11593,
+    "unitOutput": 120,
+    "unitEnergy": 0.15,
+    "rdFunds": 4,
+    "grade": "A级"
+  },
+  {
+    "title": "北京青云航电科技有限公司",
+    "latitude": 40.110311,
+    "longitude": 116.87817,
+    "acreTax": 97,
+    "unitOutput": 110,
+    "unitEnergy": 0.11,
+    "rdFunds": 3.6,
+    "grade": "A级"
+  }
+]

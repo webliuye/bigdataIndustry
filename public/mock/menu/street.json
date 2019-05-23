@@ -1,0 +1,55 @@
+[
+  {
+    "label": "首页",
+    "path": "/dashboard"
+  },
+  {
+    "label": "数据采集",
+    "path": "/collect",
+    "children": [
+      {
+        "label": "任务清单",
+        "icon": "taskmenu",
+        "path": "/collect/task"
+      },
+      {
+        "label": "数据填报",
+        "icon": "datasub",
+        "path": "/collect/report",
+        "children": [
+          {
+            "label": "企业信息年报表",
+            "path": "/collect/report/annual"
+          }
+        ]
+      },
+      {
+        "label": "数据审核",
+        "path": "/collect/audit",
+        "icon": "dataaudit",
+        "children": [
+          {
+            "label": "企业信息年报审核",
+            "path": "/collect/audit/annual"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "综合评价",
+    "path": "/eval",
+    "children": [
+      {
+        "label": "评价信息确认",
+        "icon": "evalc",
+        "path": "/eval/confirm"
+      },
+      {
+        "label": "评价结果总览",
+        "icon": "resultm",
+        "path": "/eval/result"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "label": "首页",
+    "path": "/dashboard"
+  },
+  {
+    "label": "数据采集",
+    "path": "/collect",
+    "children": [
+      {
+        "label": "任务管理",
+        "icon": "taskm",
+        "path": "/collect/task"
+      },
+      {
+        "label": "数据填报",
+        "icon": "datasub",
+        "path": "1",
+        "children": [
+          {
+            "label": "企业信息年报填报",
+            "path": "/collect/report/annual"
+          }
+        ]
+      },
+      {
+        "label": "数据审核",
+        "path": "2",
+        "icon": "dataaudit",
+        "children": [
+          {
+            "label": "企业信息年报审核",
+            "path": "/collect/audit/annual"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "综合评价",
+    "path": "/eval",
+    "children": [
+      {
+        "label": "企业综合评价",
+        "path": "/eval/index",
+        "icon": "eval"
+      },
+      {
+        "label": "评价信息告知",
+        "icon": "evaln",
+        "path": "/eval/notify"
+      },
+      {
+        "label": "评价结果总览",
+        "icon": "resultm",
+        "path": "/eval/result"
+      }
+    ]
+  },
+  {
+    "label": "区域洞察",
+    "path": "/region",
+    "children": [
+      {
+        "label": "区域概览",
+        "icon": "areav",
+        "path": "/region/overview"
+      },
+      {
+        "label": "企业综合查询",
+        "icon": "comps",
+        "path": "/region/query"
+      },
+      {
+        "label": "运行预警",
+        "icon": "operate",
+        "path": "/region/warn"
+      }
+    ]
+  }
+]

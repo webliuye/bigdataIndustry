@@ -1,0 +1,46 @@
+[
+  {
+      "sn": 1,
+      "name": "中关村示范区顺义园",
+      "enterpriseCount": 333,
+      "area": 12.08,
+      "industryTotal": 1175,
+      "acreTax": 115,
+      "capitaOutput": 202,
+      "unitEnergy": 0.1,
+      "rdFunds": 3.5
+  },
+  {
+    "sn": 2,
+    "name": "北京天竺综合保税区",
+    "enterpriseCount": 56,
+    "area": 5.944,
+    "industryTotal": 207,
+    "acreTax": 97,
+    "capitaOutput": 135,
+    "unitEnergy": 0.09,
+    "rdFunds": 3.2
+  },
+  {
+    "sn": 3,
+    "name": "北京临空经济核心区",
+    "enterpriseCount": 2600,
+    "area": 115,
+    "industryTotal": 693,
+    "acreTax": 100,
+    "capitaOutput": 122,
+    "unitEnergy": 0.13,
+    "rdFunds": 2.9
+  },
+  {
+    "sn": 4,
+    "name": "中国航信高科技产业园区",
+    "enterpriseCount": 123,
+    "area": 0.33,
+    "industryTotal": 156,
+    "acreTax": 99,
+    "capitaOutput": 107,
+    "unitEnergy": 0.11,
+    "rdFunds": 3.1
+  }
+]

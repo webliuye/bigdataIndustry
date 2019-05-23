@@ -1,0 +1,93 @@
+{
+  "ALL": {
+    "feedback": 151,
+    "auditTotal": 1615,
+    "auditPending": 64,
+    "approvalPending": 23,
+    "confirm": 87,
+    "reportTotal": 2600,
+    "reportPercent": 63,
+    "reportProgress": 78,
+    "taskPublish": 20,
+    "taskInProgress": 17,
+    "taskPending": 3
+  },
+  "中国航信高科技产业园区": {
+    "feedback": 23,
+    "auditTotal": 312,
+    "auditPending": 8,
+    "approvalPending": 3,
+    "confirm": 16,
+    "reportTotal": 540,
+    "reportPercent": 77,
+    "reportProgress": 85,
+    "taskPublish": 4,
+    "taskInProgress": 4,
+    "taskPending": 1
+  },
+  "空港工业开发区": {
+    "feedback": 18,
+    "auditTotal": 294,
+    "auditPending": 13,
+    "approvalPending": 6,
+    "confirm": 14,
+    "reportTotal": 298,
+    "reportPercent": 59.5,
+    "reportProgress": 64,
+    "taskPublish": 7,
+    "taskInProgress": 2,
+    "taskPending": 0
+  },
+  "国门商务区": {
+    "feedback": 20,
+    "auditTotal": 201,
+    "auditPending": 18,
+    "approvalPending": 8,
+    "confirm": 11,
+    "reportTotal": 475,
+    "reportPercent": 89,
+    "reportProgress": 72,
+    "taskPublish": 14,
+    "taskInProgress": 6,
+    "taskPending": 0
+  },
+  "北京天竺空港经济开发区": {
+    "feedback": 26,
+    "auditTotal": 129,
+    "auditPending": 17,
+    "approvalPending": 5,
+    "confirm": 18,
+    "reportTotal": 392,
+    "reportPercent": 78,
+    "reportProgress": 81,
+    "taskPublish": 8,
+    "taskInProgress": 3,
+    "taskPending": 0
+  },
+  "中关村示范区顺义园": {
+    "feedback": 39,
+    "auditTotal": 408,
+    "auditPending": 12,
+    "approvalPending": 5,
+    "confirm": 24,
+    "reportTotal": 662,
+    "reportPercent": 81,
+    "reportProgress": 79,
+    "taskPublish": 9,
+    "taskInProgress": 8,
+    "taskPending": 1
+  },
+  "临河开发区": {
+    "feedback": 18,
+    "auditTotal": 291,
+    "auditPending": 14,
+    "approvalPending": 8,
+    "confirm": 9,
+    "reportTotal": 389,
+    "reportPercent": 56,
+    "reportProgress": 78,
+    "taskPublish": 12,
+    "taskInProgress": 8,
+    "taskPending": 0
+  }
+}

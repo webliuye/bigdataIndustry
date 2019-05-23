@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="28px" viewBox="0 0 26 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>企业 (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-52.5%" y="-47.7%" width="205.0%" height="195.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.789221939   0 0 0 0 0.526147959   0 0 0 0 0  0 0 0 0.498188406 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="企业-" transform="translate(3.000000, 1.000000)" fill="#FFBE3C" fill-rule="nonzero">
+            <g id="企业-(1)" filter="url(#filter-1)">
+                <path d="M17.9822979,20.4139574 L17.9822979,2.47217021 L15.1458723,0 L5.70451064,3.52817021 L5.70451064,4.41055319 L14.2784681,1.52102128 L14.2784681,21.7089362 L19.9860426,21.7089362 L19.9860426,20.4139574 L17.9822979,20.4139574 Z M2.63251064,14.8868085 L7.12817021,13.9874043 L7.12817021,11.7058723 L2.63251064,12.8885106 L2.63251064,14.8868085 Z M2.63251064,21.7395745 L7.12817021,21.7395745 L7.12817021,19.3457021 L2.63251064,19.6718298 L2.63251064,21.7395745 Z M2.63251064,18.3019574 L7.12817021,17.8675745 L7.12817021,15.5901277 L2.63251064,16.3458723 L2.63251064,18.3019574 Z M2.63251064,11.4062979 L7.12817021,10.1678298 L7.12817021,7.79914894 L2.63251064,9.32017021 L2.63251064,11.4062979 Z M12.1147234,5.51421277 L9.57651064,3.97140426 L0.0187234043,7.41787234 L0.0139574468,21.787234 L1.27285106,21.787234 L1.27285106,8.11302128 L8.42382979,5.75795745 L8.42382979,21.7137021 L12.1154043,21.7137021 L12.1154043,5.51421277 L12.1147234,5.51421277 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

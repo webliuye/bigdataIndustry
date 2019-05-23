@@ -1,0 +1,74 @@
+[
+  {
+    "title": "工业总产值",
+    "value": 1087.06,
+    "unit": "亿元",
+    "backgroundColor": "#359FF5"
+  },
+  {
+    "title": "高精尖产业产值",
+    "value": 230,
+    "unit": "亿元",
+    "backgroundColor": "#F0B23B"
+  },
+  {
+    "title": "一般性公共预算收入",
+    "value": 159.3,
+    "unit": "亿元",
+    "backgroundColor": "#1CC0AD"
+  },
+  {
+    "title": "第二产业能源消费量",
+    "value": 132.2,
+    "unit": "吨标煤",
+    "backgroundColor": "#F36A00"
+  },
+  {
+    "title": "污水处理率",
+    "value": 89.9,
+    "unit": "%",
+    "backgroundColor": "#975FE4"
+  },
+  {
+    "title": "专利申请量",
+    "value": 6549,
+    "unit": "件",
+    "backgroundColor": "#36CBCB"
+  },
+  {
+    "title": "园区数",
+    "value": 15,
+    "unit": "个",
+    "backgroundColor": "#F2637B"
+  },
+  {
+    "title": "企业数",
+    "value": 6.9,
+    "unit": "万家",
+    "backgroundColor": "#8571F8"
+  },
+  {
+    "title": "亩均税收",
+    "value": 88,
+    "unit": "万元/亩",
+    "backgroundColor": "#3AA0FF"
+  },
+  {
+    "title": "人均产值",
+    "value": 100,
+    "unit": "万元",
+    "backgroundColor": "#13C2C2"
+  },
+  {
+    "title": "R&D经费占比",
+    "value": 3,
+    "unit": "%",
+    "backgroundColor": "#F0B23B"
+  },
+  {
+    "title": "单位产值能耗",
+    "value": 0.28,
+    "unit": "吨标煤/万元",
+    "backgroundColor": "#359FF5"
+  }
+]

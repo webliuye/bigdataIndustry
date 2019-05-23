@@ -1,0 +1,335 @@
+[
+  {
+    "name": "北京长城华冠汽车科技股份有限公司",
+    "grade": "A",
+    "area": "中关村科技园区顺义园",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "A类企业"
+      },
+      {
+        "icon": "business",
+        "name": "智能新能源汽车产业"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "99",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "160",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.1",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "3.5",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "北京现代汽车有限公司",
+    "grade": "A",
+    "area": "中关村科技园区顺义园",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "A类企业"
+      },
+      {
+        "icon": "business",
+        "name": "智能新能源汽车产业"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "113",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "130",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.12",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "5",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "北京汽车集团有限公司",
+    "grade": "A",
+    "area": "中关村科技园区顺义园",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "A类企业"
+      },
+      {
+        "icon": "business",
+        "name": "智能新能源汽车产业"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "107",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "120",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.14",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "5.5",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "中航复合材料有限责任公司",
+    "grade": "A",
+    "area": "中关村科技园区顺义园",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "A类企业"
+      },
+      {
+        "icon": "business",
+        "name": "航空航天产业"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "93",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "120",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.15",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "4",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "北京青云航电科技有限公司",
+    "grade": "A",
+    "area": "中关村科技园区顺义园",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "A类企业"
+      },
+      {
+        "icon": "business",
+        "name": "航空航天产业"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "97",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "110",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.11",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "3.6",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "北京世桥生物制药有限公司",
+    "grade": "A",
+    "area": "顺义区北石槽镇中北工业区",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "A类企业"
+      },
+      {
+        "icon": "business",
+        "name": "生物医药大健康产业"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "101",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "100",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.14",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "3",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "北京佳普益康生物科技有限公司",
+    "grade": "C",
+    "area": "天竺空港工业区",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "C类企业"
+      },
+      {
+        "icon": "business",
+        "name": "生物医药大健康产业"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "50",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "90",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.24",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "3",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "北京星箭长空测控技术股份有限公司",
+    "grade": "A",
+    "area": "顺义马坡聚源工业区",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "A类企业"
+      },
+      {
+        "icon": "business",
+        "name": "智能装备"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "98",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "150",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.14",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "4.5",
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "name": "北京中瑞和电气有限公司",
+    "grade": "B",
+    "area": "顺义区牛栏山工业区",
+    "tags": [
+      {
+        "icon": "company",
+        "name": "B类企业"
+      },
+      {
+        "icon": "business",
+        "name": "智能装备"
+      }
+    ],
+    "indices": [
+      {
+        "name": "亩均税收",
+        "value": "82",
+        "unit": "万元"
+      },            
+      {
+        "name": "人均产值",
+        "value": "120",
+        "unit": "万元"
+      },
+       {
+        "name": "单位产值能耗",
+        "value": "0.16",
+        "unit": "吨标煤/万元"
+      },
+      {
+        "name": "R&D经费占主营业务收入比重",
+        "value": "3",
+        "unit": "%"
+      }
+    ]
+  }
+]
